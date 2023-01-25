@@ -1,2 +1,2 @@
 # js-orientacao-objetos
-Orientação a objetos com JavaScript, class, classificação, abstração, instância, atributos e métodos estáticos.
+Orientação a objetos com JavaScript, classe, classificação, abstração, instância, atributos, métodos estáticos, herança e herança de múltiplos níveis.
